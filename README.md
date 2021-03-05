@@ -1,2 +1,3 @@
-# competition_baseline
-this repository conclude my competition baseline
+# 参加数据挖掘和NLP竞赛中写的一些baseline合集
+
+- 
